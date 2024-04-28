@@ -1,0 +1,7 @@
+{
+  "order_ratio": 1.0,
+  "initial_steps": 20,
+  "review_times": 1,
+  "binary_scorer": false,
+  "exam_sum": false
+}
